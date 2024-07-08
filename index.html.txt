@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChefConnect</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>ChefConnect</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Chefs</a></li>
+                    <li><a href="#">Servicios</a></li>
+                    <li><a href="#">Sobre Nosotros</a></li>
+                    <li><a href="#">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h2>Experiencias Gastronómicas Personalizadas en tu Hogar</h2>
+                <p>Conecta con chefs talentosos para crear momentos inolvidables.</p>
+                <a href="#" class="btn">Descubre Más</a>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="container">
+                <h2>Nuestros Servicios</h2>
+                <div class="feature">
+                    <h3>Cenas Privadas</h3>
+                    <p>Disfruta de una cena exclusiva preparada por un chef en la comodidad de tu hogar.</p>
+                </div>
+                <div class="feature">
+                    <h3>Clases de Cocina</h3>
+                    <p>Aprende nuevas técnicas culinarias con clases en vivo impartidas por chefs expertos.</p>
+                </div>
+                <div class="feature">
+                    <h3>Eventos Especiales</h3>
+                    <p>Organiza eventos únicos con menús personalizados para cualquier ocasión.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 ChefConnect. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
